@@ -1,0 +1,27 @@
+{
+  "name": "gulp-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-jasmine": "^2.0.1",
+    "gulp-jsvalidate": "^2.0.0",
+    "gulp-minify-css": "^1.2.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-rimraf": "^0.1.1",
+    "gulp-uglify": "^1.4.0",
+    "gulp-webserver": "^0.9.1",
+    "karma-jasmine": "^0.3.6"
+  },
+  "devDependencies": {
+    "jasmine-core": "^2.3.4",
+    "karma-jasmine": "^0.3.6"
+  }
+}
